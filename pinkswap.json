@@ -1,0 +1,77 @@
+{
+  "name": "PinkSwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0
+  },
+  "tags": {},
+  "keywords": ["pinkswap", "default"],
+  "tokens": [
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pinkswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pinkswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    },
+    {
+      "name": "PinkSwap",
+      "symbol": "PinkS",
+      "address": "0x702b3f41772e321aacCdea91e1FCEF682D21125D",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pinkswap.finance/images/coins/0x702b3f41772e321aacCdea91e1FCEF682D21125D.png"
+    },
+    {
+      "name": "PinkElon",
+      "symbol": "PinkE",
+      "address": "0x8DA0F18e4deB7Ba81dBD061DF57325a894014B5a",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://exchange.pinkswap.finance/images/coins/0x8DA0F18e4deB7Ba81dBD061DF57325a894014B5a.png"
+    },
+    {
+      "name": "SafeHold",
+      "symbol": "SAFEHOLD",
+      "address": "0xEce59e58046179A762513727607629641190e421",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://exchange.pinkswap.finance/images/coins/0xEce59e58046179A762513727607629641190e421.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pinkswap.finance/images/coins/0x55d398326f99059ff775485246999027b3197955.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pinkswap.finance/images/coins/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+    },
+    {
+      "name": "BTCB Token",
+      "symbol": "BTCB",
+      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pinkswap.finance/images/coins/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
+    }
+  ]
+}
